@@ -100,6 +100,7 @@ Congratulations! You've just created your first feature. In the next section we 
 
 whant to make pull request
 xxx
+push and pull
 
 
 
