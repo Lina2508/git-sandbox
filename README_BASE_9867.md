@@ -100,11 +100,6 @@ Congratulations! You've just created your first feature. In the next section we 
 
 whant to make pull request
 xxx
-<<<<<<< HEAD
-push and pull
-=======
-trying to push and pull
->>>>>>> 406480d4e45965fcdbddab9456eee5eb10ef9733
 
 
 
